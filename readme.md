@@ -9,7 +9,7 @@ when tap on.
 ### App Walk-through
 
 Please find below the gif of the app
-<img src = "https://gph.is/g/ZlzkWr9" width = 200><br>
+![CodePath Lab 1](https://user-images.githubusercontent.com/63592880/109353832-e633ce80-784a-11eb-82a0-a126b45fe4c4.gif)
 
 ## Required User Stories
 - [x] User sees custom background of the flashcard question
